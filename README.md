@@ -31,7 +31,7 @@ A tiny, fun project — first attempt! <3
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/louiswu0408/Jokes.git
 ```
 
 2. Enter the jokes directory:
