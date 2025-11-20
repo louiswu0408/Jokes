@@ -1,8 +1,31 @@
-# ForFun Project
+# ForFun
 
-A simple and fun project — first attempt! <3
+A tiny, fun project — first attempt! <3
 
-## Getting Started
+---
+
+## Overview
+
+**ForFun** is a lightweight collection of small joke scripts. Just clone the repo and run the batch file — nothing fancy, just good vibes.
+
+---
+
+## Features
+
+- Simple `.bat` script you can run instantly
+- No setup required
+- Perfect for quick fun or testing batch behavior
+- Clean and tiny project structure
+
+---
+
+## How to Run
+
+### Prerequisites
+- Windows (since this uses a `.bat` script)
+- Git (optional, for cloning the repository)
+
+### Steps
 
 1. Clone the repository:
 ```bash
@@ -19,9 +42,13 @@ cd jokes
 ./forfun.bat
 ```
 
+---
+
 ## Notes
-- This project uses a Windows batch script (`.bat`).
-- Rename this file to `README.md` when uploading to GitHub.
+- Rename this file to `README.md` when pushing to GitHub.
+- Feel free to modify or expand the project.
+
+---
 
 ## License
-This project is shared for fun. Add a license if needed.
+Add a license here if needed.
